@@ -8,10 +8,6 @@ This project demonstrates a data pipeline in Databricks that extracts data from 
 2. [Setup and Installation](#setup-and-installation)
 3. [Usage](#usage)
 4. [Folder Structure](#folder-structure)
-5. [Dependencies](#dependencies)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ## Overview
 This Databricks project builds an end-to-end pipeline using Spark to process and analyze data. The project extracts data from Azure Blob Storage, transforms it, and stores it in a data lake. It also generates output files in .csv format.The workflow first ingests a parameter file that 
